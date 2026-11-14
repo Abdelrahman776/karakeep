@@ -57,11 +57,11 @@ You can access the demo at [https://try.karakeep.com](https://try.karakeep.com).
 
 email:
 ```
- demo@karakeep.app
+demo@karakeep.app
 ```
 password:
 ```
- demodemo
+demodemo
 ```
 
 The demo is seeded with some content, but it's in read-only mode to prevent abuse.
